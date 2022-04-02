@@ -1,0 +1,75 @@
+body{
+	padding: 0;
+	margin: 0;
+	font-size: 16px;
+	color: black;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  padding: 0;
+  margin: 0;
+  text-transform: uppercase;
+}
+
+ul, li{
+	display: block;
+    padding: 0;
+}
+
+.container {
+	width: 1920px;
+	margin: 0 auto;
+}
+
+header a {
+	color: black;
+}
+.logo {
+	margin-right: 169px;
+}
+.menu{
+	display: flex;
+}
+.menu li a {
+	text-decoration: none;
+	font-size: 24px;
+	margin-right: 82px;
+}
+.nav {
+	display: flex;
+	padding-top: 32px;
+	align-items: center;}
+
+.offer	{
+	margin-top: 250px;
+	display: flex;
+}
+
+.pref{
+	font-size: 96px;
+}
+p{
+	font-size: 20px;
+	margin: 0;
+}
+
+.btn {
+	display: block;
+	color:white;
+	font-size: 14px;
+	text-align: center;
+	padding: 17px 47px;
+	border: 1px solid black;
+	width: 238px;
+	text-decoration: none;
+	background-color: black;
+}
+.img1 {
+  margin-left: auto;
+  padding-left:  49px;
+}
+.offer h1 {
+	font-size: 96px;
+}
+
+
